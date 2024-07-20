@@ -1,4 +1,4 @@
-# bank_management_system
+
 # Bank Management System
 A command-line C++ application for managing bank accounts. This project allows users to perform various banking operations including:
 -> Create Accounts: Set up new bank accounts with an account holder's name and initial balance.
